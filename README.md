@@ -1,7 +1,7 @@
  <p align="left">
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="45px">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavoabell" alt="gustavoabell" /> </p>
+
 
 # Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
