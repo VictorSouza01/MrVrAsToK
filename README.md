@@ -11,7 +11,7 @@
 My name is <strong>Victor de Souza</strong>, I'm a Software Developer student from Brazil, passionate about programming, technology, coffee! ☕💜
 
 - 🔭 I’m currently studying on [FATEC SÃO CAETANO DO SUL](https://www.fatecsaocaetano.edu.br/) Analysis and systems development.
--  My goal is to become a developer capable of solving real problems :)
+-  My goal is to become a developer capable of solving real problems, and always improve and evolve. :)
 
 
 #### <kbd>Back-end:</kbd><br>
