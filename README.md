@@ -6,32 +6,29 @@
 <img align='right' src='my-octocat-1626134493439.png' width='300"'>
 
  
-My name is <strong>Victor de Souza</strong>, I'm a Software Developer student from Brazil, passionate about programming, technology, coffee! ☕💜
+Hi, my name is <strong>Victor de Souza</strong>, I'm a Software Developer student from Brazil, I love programing👨‍💻, coffe☕, games🎮 and more.
 
-- 🔭 I’m currently studying on [FATEC SÃO CAETANO DO SUL](https://www.fatecsaocaetano.edu.br/) - Analysis and systems development.
+-  I’m currently studying on [FATEC SÃO CAETANO DO SUL](https://www.fatecsaocaetano.edu.br/) - Analysis and systems development.
 -  My goal is to become a developer capable of solving real problems, always improve and evolve :)
+<br><br> 
 
-
-#### <kbd>Back-end:</kbd><br>
-<img height="26" title="MySQL" alt="MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"> &nbsp;
-<img height="26" title="Postgres" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
-
-####  <kbd>Front-end:</kbd><br>
-<img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
-<img height="26" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-<img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
-
- #### <kbd>Learning:</kbd><br> 
-<img height="26" title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> &nbsp;
-<img height="26" title="Git" alt="Git" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> &nbsp;
-
-#### <kbd>Other Languages and Tools: </kbd><br>
+#### <kbd>Languages and Tools:</kbd><br> 
 <img height="26" title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
 <img height="26" title="C" alt="C" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="VB.NET" alt="VB.NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="Linux" alt="Linux" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png"> &nbsp;
 
+<img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+<img height="26" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
+<img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+<img height="26" title="MySQL" alt="MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"> &nbsp;
+<img height="26" title="Postgres" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
+
+ #### <kbd>Learning:</kbd><br> 
+<img height="26" title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> &nbsp;
+<img height="26" title="Git" alt="Git" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> &nbsp;
+<br> <br> 
 
 <kbd>Social ⤵:</kbd>
 
