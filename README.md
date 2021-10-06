@@ -29,7 +29,6 @@ Hi, my name is <strong>Victor de Souza</strong>, I'm a Software Developer studen
 
 
  #### <kbd>Learning:</kbd><br> 
-<img height="26" title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> &nbsp;
 <img height="26" title="Git" alt="Git" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> &nbsp;
 <br> <br> 
 
