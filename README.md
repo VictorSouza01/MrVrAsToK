@@ -13,9 +13,9 @@ Hi, my name is <strong>Victor de Souza</strong>, I'm a Software Developer studen
 <br><br> 
 
 #### <kbd>Languages and Tools:</kbd><br> 
-<img height="26" title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
+<img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="C" alt="C" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor"> &nbsp;
-<img height="26" title="VB.NET" alt="VB.NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
+<img height="26" title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="Linux" alt="Linux" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png"> &nbsp;
 <img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 
