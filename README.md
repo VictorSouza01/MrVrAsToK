@@ -14,7 +14,6 @@ Hi, my name is <strong>Victor de Souza</strong>, I'm a Software Developer studen
 
 #### <kbd>Languages and Tools:</kbd><br> 
 
-<img height="26" title="C" alt="C" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="Visual Basic" alt="Visual Basic" src="https://img.icons8.com/fluency/50/000000/visual-basic.png"> &nbsp;
