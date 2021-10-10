@@ -26,9 +26,6 @@ Hi, my name is <strong>Victor de Souza</strong>, I'm a Software Developer studen
 <img height="26" title="MySQL" alt="MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="Postgres" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
 
-
- #### <kbd>Learning:</kbd><br> 
-<img height="26" title="Git" alt="Git" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> &nbsp;
 <br> <br> 
 
 <kbd>Social ⤵:</kbd>
