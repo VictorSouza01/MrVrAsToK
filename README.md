@@ -49,12 +49,4 @@ Hi, my name is <strong>Victor de Souza</strong>, I'm a Software Developer studen
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouza01&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
 </details>
-
-
-<details><summary><b><kbd>Contact</kbd></b></summary>
-  
-  - [LinkedIn](https://www.linkedin.com/in/victor-souza-bb43971a2/)
-  - [Gmail](victors.martins.trabalho@gmail.com)
-  - [Instagram](https://www.instagram.com/__victor.souza__/)
-  </details>
   
