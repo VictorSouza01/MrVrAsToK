@@ -6,13 +6,12 @@
 <img align='right' src='my-octocat-1626134493439.png' width='300"'>
 
  
-Hi, my name is <strong>Victor de Souza</strong>, I'm a Software Developer student from Brazil, I love programing👨‍💻, coffe☕, games🎮 and more.
+Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e desenvolvimento de sistemas, amo programar👨‍💻, café☕, jogos🎮 e muito mais.
 
--  I’m currently studying on [FATEC SÃO CAETANO DO SUL](https://www.fatecsaocaetano.edu.br/) - Analysis and systems development.
--  My goal is to become a developer capable of solving real problems, always improve and evolve :)
+-  Eu estou estudando na [FATEC SÃO CAETANO DO SUL](https://www.fatecsaocaetano.edu.br/) - Análise e desenvolvimento de sistemas.
 <br><br> 
 
-#### <kbd>Languages and Tools:</kbd><br> 
+#### <kbd>Linguagens e ferramentas:</kbd><br> 
 
 <img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
@@ -42,7 +41,7 @@ Hi, my name is <strong>Victor de Souza</strong>, I'm a Software Developer studen
 <details><summary><b><kbd>GitHub Stats</kbd></b></summary>
   
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorSouza01&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="gustavoabell" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorSouza01&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="VictorSouza01" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouza01&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
 </details>
