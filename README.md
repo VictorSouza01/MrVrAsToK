@@ -48,4 +48,3 @@ Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e d
 </p>
 
 </details>
-   ![Snake animation](https://github.com/VictorSouza01/VictorSouza01/blob/output/github-contribution-grid-snake.svg)
