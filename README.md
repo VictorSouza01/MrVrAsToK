@@ -46,5 +46,6 @@ Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e d
   <img src="https://github-readme-stats.vercel.app/api?username=VictorSouza01&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="VictorSouza01" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouza01&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
+ ![Snake animation](https://github.com/VictorSouza01/VictorSouza01/blob/output/github-contribution-grid-snake.svg)
 </details>
   
