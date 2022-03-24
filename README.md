@@ -12,7 +12,7 @@ Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e d
 <br><br> 
 
 #### <kbd>Linguagens e ferramentas:</kbd><br> 
-
+<details><summary><b><kbd>#### <kbd>Linguagens e ferramentas:</kbd><br> </kbd></b></summary>
 <img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="Visual Basic" alt="Visual Basic" src="https://img.icons8.com/fluency/50/000000/visual-basic.png"> &nbsp;
@@ -25,7 +25,7 @@ Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e d
 <img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="26" title="MySQL" alt="MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="Postgres" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
-
+</details>
 <kbd>Social ⤵:</kbd>
 
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1a1adc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinfernandes/?locale=en_US)](https://www.linkedin.com/in/victor-souza-bb43971a2/) 
