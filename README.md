@@ -17,6 +17,7 @@ Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e d
 <img height="26" title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="Visual Basic" alt="Visual Basic" src="https://img.icons8.com/fluency/50/000000/visual-basic.png"> &nbsp;
 <img height="26" title="Linux" alt="Linux" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png"> &nbsp;
+<img height="26" title="Java" alt="Java" src="https://icongr.am/devicon/java-plain-wordmark.svg?size=148&color=currentColor"> &nbsp;
 
 
 <img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
