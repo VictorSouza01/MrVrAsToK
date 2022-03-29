@@ -37,10 +37,9 @@ Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e d
 
 
 <details><summary><b><kbd>GitHub Stats</kbd></b></summary>
-  
-<p align="center">
-![Status](https://github-readme-stats.vercel.app/api?username=VictorSouza01) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouza01&layout=compact)](https://github.com/VictorSouza01)
-</p>
+![Status](https://github-readme-stats.vercel.app/api?username=VictorSouza01)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouza01&layout=compact)](https://github.com/VictorSouza01)
+
 </details>
 
 
