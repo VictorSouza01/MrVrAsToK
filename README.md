@@ -37,9 +37,9 @@ Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e d
 
 
 <details><summary><b><kbd>GitHub Stats</kbd></b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorSouza01&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="gustavoabell" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouza01&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorSouza01&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="gustavoabell" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouza01&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 
+  
 </details>
 
 
