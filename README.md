@@ -12,7 +12,7 @@ Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e d
 <br><br> 
 
 
-<details><summary><b><kbd><kbd>Linguagens e ferramentas:</kbd><br> </kbd></b></summary>
+<details><summary><b><kbd>Linguagens e ferramentas:</kbd><br> </kbd></b></summary>
  <br>
 <img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
