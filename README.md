@@ -33,7 +33,7 @@ Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e d
 
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1a1adc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinfernandes/?locale=en_US)](https://www.linkedin.com/in/victor-souza-bb43971a2/) 
 
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-1a1adc?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/zcodexs//)](https://www.instagram.com/__victor.souza__/)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-1a1adc?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/victorsouzzz//)](https://www.instagram.com/victorsouzzz/)
 
 
 <details><summary><b><kbd>GitHub Stats</kbd></b></summary>
