@@ -5,8 +5,9 @@
  
 Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e desenvolvimento de sistemas, amo programar👨‍💻, café☕, jogos🎮 e muito mais.
 
--  Eu estou estudando na FATEC SÃO CAETANO DO SUL - Análise e desenvolvimento de sistemas.
--  Tenho como objetivo atual colocar em prática todo o meu conhecimento, seja em grandes projetos, ou pequenos 🙂
+-  Análista e desenvolvedor de sistemas ☕
+-  Desenvolvedor C#
+-  Tenho como objetivo atual me profissionalizar como desenvolvedor mobile
 
 - Todos os projetos grandes ou pequenos irei estar colocando aqui, para que eu possa mostrar minha evolução para as pessoas e para o meu eu do futuro 🙂
 <br><br> 
