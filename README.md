@@ -36,13 +36,6 @@ Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e d
 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-1a1adc?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/victorsouzzz//)](https://www.instagram.com/victorsouzzz/)
 
-
-<details><summary><b><kbd>GitHub Stats</kbd></b></summary>
-<img src="https://github-readme-stats.vercel.app/api?username=VictorSouza01&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="gustavoabell" />       
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouza01&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
-</details>
-
-
 <details><summary><b><kbd>About me</kbd></b></summary>
   
   - [About me](https://victorsouza01.github.io/About-Me/)
