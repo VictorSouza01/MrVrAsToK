@@ -5,7 +5,7 @@
  
 Oi, meu nome é <strong>Victor de Souza</strong>, eu estou cursando análise e desenvolvimento de sistemas, amo programar👨‍💻, café☕, jogos🎮 e muito mais.
 
--  Análista e desenvolvedor de sistemas ☕
+-  Software Engineer ☕
 -  Desenvolvedor C#
 -  Tenho como objetivo atual me profissionalizar como desenvolvedor mobile
 
